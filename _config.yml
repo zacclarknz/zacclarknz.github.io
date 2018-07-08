@@ -1,0 +1,3 @@
+name: Zac Clark
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
